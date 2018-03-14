@@ -1,0 +1,26 @@
+{
+  "name": "deploy-apigee",
+  "version": "1.0.0",
+  "description": "first deploy apigee app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyvoxuan/apigees.git"
+  },
+  "keywords": [
+    "apigee",
+    "api"
+  ],
+  "author": "harry vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyvoxuan/apigees/issues"
+  },
+  "homepage": "https://github.com/huyvoxuan/apigees#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
